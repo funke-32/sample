@@ -56,7 +56,4 @@ Performance Proxy Metrics (PPM)
 The Performance Proxy Metrics (PPM) service is a scheduled job that measures the performance of  Core Web Vitals for your website, such as First Contentful Paint (FCP) and Largest Contentful Paint (LCP). You can view these metrics and manage PPM jobs directly in the Performance Proxy dashboard. For more details, refer to the Manage Performance Proxy Metrics Job guide.
 
 
-Conclusion
-By setting a new benchmark for speed and resource efficiency, P3 is reshaping how users experience your website. It’s currently managed by the Macrometa team and to get started—reach out to our Sales team and discover what optimized performance can mean for your business!
-
 For an in-depth guide to using P3, refer to the official documentation.
