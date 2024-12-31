@@ -16,7 +16,6 @@ Caching plays a vital role in this process. When a user visits your site, the br
 
 With all these assets in place, the browser begins to build the Document Object Model (DOM), a structured layout of the page’s content that ultimately appears on the screen. 
 
-But this process isn’t just a one-time deal; it repeats with each new page the user navigates to, meaning every click triggers a fresh set of requests and responses to pull in any uncached content.
 
 While this cycle may be efficient, some users still experience delays, especially on sites with multiple pages or complex content. Each time users move from one page to another, like browsing a product catalog or news section, they wait for each page to load. Imagine if these pages were already optimized in the browser background. This means the content is ready to be served when users click, giving them a smooth, uninterrupted experience.
 Beyond the regular: Why is P3 the game changer?
