@@ -11,7 +11,6 @@ The browser requests the site’s server to fetch the core HTML document.
 The CDN routes the request to the nearest geographical server, analyzing real-time network conditions, geographic proximity, and server load to deliver the HTML document with minimal latency and optimized performance.
 The server responds with this document, and the browser quickly begins reading it. It encounters links to essential assets—stylesheets, JavaScript files, images, and fonts—that bring the page to life. For each external resource, the browser makes additional requests to pull them individually. 
 
-Caching plays a vital role in this process. When a user visits your site, the browser stores certain elements and assets in a temporary cache. Assets stored in the browser's cache can be loaded instantly to reduce load time. 
 
 With all these assets in place, the browser begins to build the Document Object Model (DOM), a structured layout of the page’s content that ultimately appears on the screen. 
 
