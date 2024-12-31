@@ -2,9 +2,8 @@ PhotonIQ Performance Proxy (P3): improving Core Web Vitals for over 25% boost in
 
 Speed performance for web pages is no longer a luxury; it’s a necessity, as research shows that even a one-second delay can significantly drop user satisfaction and conversion rates. According to Google, bounce rates (the probability of a user leaving a website) skyrocket as load times increase: a 1-3 second delay raises abandonment by 32%, a 1-5 second delay spikes it by 90%, and anything beyond 10 seconds? That sends bounce rates up by 123%.
 
-But what exactly causes these delays? Numerous factors can contribute to delayed page load latency. From server issues and network congestion to large file sizes and inefficient code, each element plays a role in how quickly a webpage renders. Understanding these challenges is crucial for anyone looking to enhance their web performance. Even as web technologies evolve to tackle these challenges, some users still experience frustrating page loading delays.
-
-Today, we’re introducing a game-changer in the race for speed: PhotonIQ Performance Proxy (P3).  P3 is a suite of AI-driven services designed to find the best ways to optimize your website and reduce page load latency without compromising the user experience. It analyzes your webpage and applies real-time optimizations that improve core web vitals, delivering a fully optimized version that loads almost instantly on the browser.
+Today, we’re introducing a game-changer in the race for speed: PhotonIQ Performance Proxy (P3).  P3 is a suite of AI-driven services designed to find the best w
+ays to optimize your website and reduce page load latency without compromising the user experience. It analyzes your webpage and applies real-time optimizations that improve core web vitals, delivering a fully optimized version that loads almost instantly on the browser.
 In this blog, we’ll highlight P3's major features and explore how it can transform your website’s performance. Many of our customers have experienced up to a 25% boost in conversion rates due to the Core Web Vitals improvements powered by the P3 engine.
 The browser page loading journey
 Before exploring deeper into P3, let’s take a step back to understand the browser process for loading your website. Whenever a user visits your website, 
